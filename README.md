@@ -5,16 +5,15 @@
 
 # Seurat2 v2.3
 
-
 Seurat2 is an R toolkit for single cell genomics, developed and maintained by the Satija Lab at NYGC.
 
 Instructions, documentation, and tutorials can be found at:
-* http://www.satijalab.org/seurat2
+* http://www.satijalab.org/seurat
 
-Seurat2 is also hosted on GitHub, you can view and clone the repository at
-* https://github.com/satijalab/seurat2
+Seurat is also hosted on GitHub, you can view and clone the repository at
+* https://github.com/satijalab/seurat
 
-Seurat2 has been successfully installed on Mac OS X, Linux, and Windows, using the devtools package to install directly from GitHub
+Seurat3 has been successfully installed on Mac OS X, Linux, and Windows, using the devtools package to install directly from GitHub
 
 Improvements and new features will be added on a regular basis, please contact seurat2package@gmail.com with any questions or if you would like to contribute
 
